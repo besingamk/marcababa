@@ -4,7 +4,7 @@ class JConfig {
 	public $offline_message = 'This site is down for maintenance.<br /> Please check back again soon.';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = 'Showroom';
+	public $sitename = 'asdf';
 	public $editor = 'jce';
 	public $captcha = '0';
 	public $list_limit = '20';
@@ -15,7 +15,7 @@ class JConfig {
 	public $host = 'localhost';
 	public $user = 'root';
 	public $password = '';
-	public $db = 'yt_showroom';
+	public $db = 'asdf';
 	public $dbprefix = 'pjyu3_';
 	public $live_site = '';
 	public $secret = '2pPf4vkTwRP35aLS';
